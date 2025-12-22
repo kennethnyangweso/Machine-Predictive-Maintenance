@@ -153,6 +153,20 @@ Overall, the model demonstrates excellent predictive capability, making it highl
 3. Run all cells  
 4. View predictions and evaluation metrics  
 
+       Machine-Predictive-Maintenance/
+       │
+       ├── data/
+       ├── notebooks/
+       ├── src/
+       │   ├── preprocessing.py
+       │   ├── train.py
+       │   ├── evaluate.py
+       │   └── predict.py
+       ├── models/
+       ├── requirements.txt
+       ├── README.md
+       └── LICENSE
+
 ---
 
 ## 🚀 Future Enhancements
