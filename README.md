@@ -180,8 +180,12 @@ Overall, the model demonstrates excellent predictive capability, making it highl
   ![Screenshot (36)](https://github.com/user-attachments/assets/c4d1efaa-7ba3-46d3-8619-717972d1a323)
 
 
-## 📜 License
-This project is licensed under the **MIT License**.
+## **👤 Author**
+
+**Kenneth Nyangweso**
+
+**Data Scientist | Electrical & Telecommunications Engineer**
+
 
 
 
