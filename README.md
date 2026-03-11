@@ -1,4 +1,5 @@
-# 🏭 Machine Predictive Maintenance with Machine Learning
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/990af940-f913-4115-b49b-1719628b9293" />
+
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
